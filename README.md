@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Adarsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsha2003&show_icons=true&theme=radical)
 <!--
 **adarsha2003/adarsha2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
